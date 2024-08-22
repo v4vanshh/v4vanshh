@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ## 📫 How to reach me: 
   - **Email**: [vnshbh@gmail.com](mailto:vnshbh@gmail.com)
   - **LinkedIn**: [linkedin.com/in/vansh-bhatia](https://linkedin.com/in/vansh-bhatia)
-  - **GitHub**: [github.com/v4vanshh](https://github.com/v4vanshh)
-
+    
 ⚡ Fun fact: **When I'm not coding,you can find me exploring new technologies and advancements in the automobile sector!**
 
